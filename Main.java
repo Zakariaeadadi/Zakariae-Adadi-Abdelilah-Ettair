@@ -47,7 +47,7 @@ public class Main {
                 counter++;
             }
         }
-//        System.out.print(counter);
+
         if (counter >= 100) {
             return;
         }

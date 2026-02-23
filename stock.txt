@@ -1,0 +1,5 @@
+Ordinateur;4500.0;10
+Imprimante;1200.0;7
+Souris;150.0;25
+Clavier;300.0;15
+Écran;2500.0;5
